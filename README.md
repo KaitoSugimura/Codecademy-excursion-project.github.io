@@ -1,1 +1,1 @@
-# Codecademy-excursion-project.github.io
+# https://kaitosugimura.github.io/Codecademy-excursion-project.github.io/
